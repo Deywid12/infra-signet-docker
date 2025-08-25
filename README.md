@@ -14,8 +14,10 @@ O repositório contém `Dockerfile`, `Dockerfile.miner`, `docker-compose.yml`, `
 ---
 
 ## 🚀 Como começar
+Link: https://bitcoin-students-day.casa21.space/workshops/running-bitcoin
+Neste link está todo o material e tutorial de como instalar, configurar e utilizar.
 
-### 1) Clonar o repositório
+### Clone o repositório
 ```bash
 git clone https://github.com/vinteum-bdl/infra-signet-docker.git
 cd infra-signet-docker
